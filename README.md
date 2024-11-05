@@ -1,4 +1,4 @@
-# SQL in 10 Days
+# 10 Days SQL Bootcamp
 
 ## Table Of Content
 
